@@ -2,6 +2,8 @@ import { readFileSync } from "node:fs";
 
 
 
+// @ts-ignore
+//
 function traverse_to_find_longest (data) {
   const keys = Object.keys(data)
 }

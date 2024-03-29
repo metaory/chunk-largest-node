@@ -1,15 +1,18 @@
 Chunk Largest Node
 ==================
 
-# Chunk large nested datasets
+Depth First Search to Find and Chunk the largest node.
+Returning a list reduced inputs of ANY type, maintaining original structure
 
-## While maintaining the original data structure
+EXAMPLES
+========
 
 TODO
 ====
+- [ ] Tests
 - [ ] Publish
-- [ ] Add examples
-- [ ] Makefile
+- [ ] Examples
+- [ ] Workflow
 
 
 ## License

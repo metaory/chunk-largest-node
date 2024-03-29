@@ -1,6 +1,6 @@
 {
   "name": "chunk-largest-node",
-  "description": "chunk large nested datasets, while maintaining the original data structure",
+  "description": "Deep First Search to Find and Chunk the largest node. Returning a list reduced inputs of ANY type, maintaining original structure",
   "type": "module",
   "version": "0.0.1",
   "main": "index.js",
@@ -10,5 +10,8 @@
   },
   "keywords": [],
   "author": "metaory <metaory@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
 }
